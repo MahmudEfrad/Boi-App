@@ -1,6 +1,5 @@
 # Boi-App
-This is a pdf book reading app
-
+This is a pdf book reading app<br>
 <img src="./Splash screen.png" width= "270" title= "Splash screen">
 <img src="./Dashboard screen.png" width= "270" title= "Dashboard screen">
 <img src="./Log in screen.png" width= "270" title= "Log in screen"><br><br>
