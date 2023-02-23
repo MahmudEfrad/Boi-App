@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395784818583",
+    "project_id": "book-app-ee60b",
+    "storage_bucket": "book-app-ee60b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395784818583:android:47e01463cf104d99237ed2",
+        "android_client_info": {
+          "package_name": "com.mhefrad.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395784818583-hn19tvvbm0mdvtkkpmmq90rdd8qukpoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhefrad.bookapp",
+            "certificate_hash": "c8c2fce6843812cbafcc874d7799b0ca96610bd1"
+          }
+        },
+        {
+          "client_id": "395784818583-g01ksf8nahlfhocsgbvcdons36nkh0p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWt6vRoGNilhiOHEFxOl6bkkYv56KT0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395784818583-g01ksf8nahlfhocsgbvcdons36nkh0p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
